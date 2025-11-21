@@ -1,0 +1,1 @@
+console.log("Halaman utama siap");
